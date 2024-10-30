@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sujit</h1>
 <h3 align="center">Welcome to My GitHub Profile! I am currently pursuing my second year at BRAC University. I am passionate about technology and always eager to learn new skills.</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif)"/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitkumardatta2002&label=Profile%20views&color=0e75b6&style=flat" alt="sujitkumardatta2002" /> </p>
 
