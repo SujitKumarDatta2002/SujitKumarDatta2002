@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sujitkd10" target="blank"><img src="https://img.shields.io/twitter/follow/sujitkd10?logo=twitter&style=for-the-badge" alt="sujitkd10" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
